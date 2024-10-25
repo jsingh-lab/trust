@@ -2,9 +2,9 @@ import mysql.connector
 from mysql.connector import Error
 
 # Database credentials
-db_host = "82f909eed48f"
+db_host = "172.25.0.2"
 db_user = "semaphore"
-db_password = "semaphore"
+db_password = "google@123"
 db_name = "semaphore"  # Specify the database name
 
 def get_table_counts():
